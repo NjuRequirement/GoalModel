@@ -4,4 +4,4 @@
 * 141250043 韩奇
 * 141250110 侍硕
   
-[github地址](https://github.com/NjuRequirement/DocumentMakeMeHappy)
+[github地址](https://github.com/NjuRequirement/GoalModel)
